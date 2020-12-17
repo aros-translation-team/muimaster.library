@@ -2,7 +2,7 @@
 
 include $(SRCDIR)/config/aros.cfg
 
-CATALOGS:=
+CATALOGS:=german polish russian
 
 %build_catalogs mmake=workbench-libs-muimaster-catalogs \
     catalogs=$(CATALOGS) source="../muimaster_strings.h" \
