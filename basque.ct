@@ -1,5 +1,5 @@
-## version $VER: muimaster.catalog 1.0 (05.03.2024)
-## language basque
+## version $VER: muimaster.catalog 1.0 (06.08.2026)
+## language euskara
 ## codeset 0
 ; Generic
 ;
@@ -88,6 +88,34 @@ Eskuin
 MSG_FRAMEADJUST_BOTTOM
 Behean
 ; Bottom
+;
+MSG_FRAMEADJUST_ENABLE
+Gaitu
+; Enable
+;
+MSG_FRAMEADJUST_EXAMPLE
+Adibidea
+; Example
+;
+MSG_FRAMEADJUST_RADIUS
+Erradioa
+; Radius
+;
+MSG_FRAMEADJUST_WIDTH
+Zabalera
+; Width
+;
+MSG_FRAMEADJUST_BUILTIN_FRAMES
+Marko integratuak
+; Built-in Frames
+;
+MSG_FRAMEADJUST_CUSTOM_FRAMES
+Marko pertsonalizatuak
+; Custom Frames
+;
+MSG_FRAMEADJUST_ROUNDED_FRAME
+Marko biribildua
+; Rounded Frame
 ;
 ; -------------------------------------------------
 ; Imageadjust class

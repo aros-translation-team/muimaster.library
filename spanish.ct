@@ -1,4 +1,4 @@
-## version $VER: muimaster.catalog 1.0 (25.01.2021)
+## version $VER: muimaster.catalog 1.0 (06.08.2026)
 ## language español
 ## codeset 0
 ; Generic
@@ -88,6 +88,34 @@ Derecha
 MSG_FRAMEADJUST_BOTTOM
 Inferior
 ; Bottom
+;
+MSG_FRAMEADJUST_ENABLE
+Enable
+; Enable
+;
+MSG_FRAMEADJUST_EXAMPLE
+Ejemplo
+; Example
+;
+MSG_FRAMEADJUST_RADIUS
+Radio
+; Radius
+;
+MSG_FRAMEADJUST_WIDTH
+Ancho
+; Width
+;
+MSG_FRAMEADJUST_BUILTIN_FRAMES
+Marcos integrados
+; Built-in Frames
+;
+MSG_FRAMEADJUST_CUSTOM_FRAMES
+Marcos personalizados
+; Custom Frames
+;
+MSG_FRAMEADJUST_ROUNDED_FRAME
+Marco redondeado
+; Rounded Frame
 ;
 ; -------------------------------------------------
 ; Imageadjust class

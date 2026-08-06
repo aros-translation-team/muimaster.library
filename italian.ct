@@ -1,4 +1,4 @@
-## version $VER: muimaster.catalog 1.0 (05.01.2020)
+## version $VER: muimaster.catalog 1.0 (06.08.2026)
 ## language italiano
 ## codeset 0
 ; Authors: AMIGASYSTEM
@@ -90,6 +90,34 @@ Destro
 MSG_FRAMEADJUST_BOTTOM
 Sotto
 ; Bottom
+;
+MSG_FRAMEADJUST_ENABLE
+Enable
+; Enable
+;
+MSG_FRAMEADJUST_EXAMPLE
+Esempio
+; Example
+;
+MSG_FRAMEADJUST_RADIUS
+Raggio
+; Radius
+;
+MSG_FRAMEADJUST_WIDTH
+Larghezza
+; Width
+;
+MSG_FRAMEADJUST_BUILTIN_FRAMES
+Cornici Integrate
+; Built-in Frames
+;
+MSG_FRAMEADJUST_CUSTOM_FRAMES
+Cornici Personalizzate
+; Custom Frames
+;
+MSG_FRAMEADJUST_ROUNDED_FRAME
+Cornice Arrotondata
+; Rounded Frame
 ;
 ; -------------------------------------------------
 ; Imageadjust class

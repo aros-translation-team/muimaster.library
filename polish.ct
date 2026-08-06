@@ -1,4 +1,4 @@
-## version $VER: muimaster.catalog 1.0 (06.01.2020)
+## version $VER: muimaster.catalog 1.0 (06.08.2026)
 ## language polski
 ## codeset 5
 ;
@@ -89,6 +89,34 @@ Prawo
 MSG_FRAMEADJUST_BOTTOM
 Dó³
 ; Bottom
+;
+MSG_FRAMEADJUST_ENABLE
+Enable
+; Enable
+;
+MSG_FRAMEADJUST_EXAMPLE
+Przyk³ad
+; Example
+;
+MSG_FRAMEADJUST_RADIUS
+Promieñ
+; Radius
+;
+MSG_FRAMEADJUST_WIDTH
+Szeroko¶æ
+; Width
+;
+MSG_FRAMEADJUST_BUILTIN_FRAMES
+Wbudowane ramki
+; Built-in Frames
+;
+MSG_FRAMEADJUST_CUSTOM_FRAMES
+W³asne ramki
+; Custom Frames
+;
+MSG_FRAMEADJUST_ROUNDED_FRAME
+Zaokr±glona ramka
+; Rounded Frame
 ;
 ; -------------------------------------------------
 ; Imageadjust class
